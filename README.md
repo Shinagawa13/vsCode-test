@@ -2,4 +2,4 @@
 
 練習です
 
-vsCodeで変更
+vsCodeを変更

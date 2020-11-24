@@ -2,4 +2,5 @@
 
 練習です
 
-vsCodeをaiueioあああedeeee
+vsCodeを変更
+

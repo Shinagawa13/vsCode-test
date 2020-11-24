@@ -2,4 +2,4 @@
 
 練習です
 
-vsCodeをaiueioおおお
+vsCodeを変更
